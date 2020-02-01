@@ -1,0 +1,56 @@
+'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                             '.
+'X - - - - - - w w w - - X w w w w w XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     ~                   '.
+'X - - w w w G w X w - - X w w w w w - - - X - - - - - - - - - X - - w w w - - - - - - - o  ~    ~                 '.
+'X -o- w w w w w X w - - X w w w w w - - - - - - - - - w - - - X - - w w - - - /\\- - - - o ~ ~ ~ ~ ~               '.
+'X -|- X X X w w - w - - - w w w w w - - - X - - - - w w w - - X - - - - -o-/\\ - - - - o o ~ ~ ~ ~ ~ ~ ~           '.
+'X - - - - - - - X - - - G w w w w w XXXXXXXXXXXXXXXXX w w - - X - - - - -|- - - - - o ~ ~ ~ ~   ~ ~ ~ ~ ~         '.
+'X - - - - w w w w - - X X w w w w w X               X w w - - X - - - - - - - - - o ~ ~ ~ ~   ~ ~ ~ ~ ~ ~ ~       '.
+'X X - X X X w w w X - - - - - XXXXXXX               X w w - - - - - - w - - - - o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~   ~ ~     '.
+'X - - - w w w w w w - - - - - X                     X w w - - - - - w w w - - o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~   ~ ~ ~   '.
+'X - - - - - G - - - - - - - - X                     X w - - - - - w w w w - o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~   ~ ~ ~ ~   '.
+'X - X X X - - - X X X X X - - X                     X - - - - - - - w w - o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~   ~ ~ ~ ~ ~ ~ ~   '.
+'X - - - - - - - - - - - - - - X                     XXXXXXXXXXXXXXXXXXXXX o ~ ~ ~ ~ ~   ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ '.
+'X - - - - -/\\ - - - - - - - - X                     X - - - - - - - - - - o ~ ~ ~ ~     ~ ~ ~ ~ ~   ~ ~ ~ ~ ~ ~   '.
+'X - - - - /  \\- - - G - - - - X                     X - - - - - - w w - - - o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~     '.
+'X - - - - - - - - - - - - - - X                     X - - - - w w w w w - - - o o ~ ~ ~ ~ ~ ~     ~ ~ ~ ~ ~       '.
+'XXX - - - XXXXXXXXXXXXXXXXXXXXX                     X - - - w w w w w w w - - - - o o o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~       '.
+'  X - - XXX                                         X - -`o - w w w w w - - - @ - - - - o ~ ~ ~ ~                 '.
+'  X - - X                                           X - - |`- - - w w - - - - - - - - - o ~ ~ ~ ~                 '.
+'  X - - X                                           X - - | - - - - - - - - - - - - - - o ~ ~ ~ ~                 '.
+'  X - - X                                           X - - - - - - - - - - - - - - - - - o ~ ~ ~                   '.
+'  XXX - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX - - XXXXXXXXXXXXXXX                         '.
+'    X - - - - - - - - - w - - - - w w w - w - - w - - - - - w w w - - - - X                                       '.
+'    X w - - - - - - - w - - - w w w w w w w - w w w - - - - - - - - - - - X                                       '.
+'    X w w w - - - - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                       '.
+'    X w w w - XXXXXXX                                                                                             '.
+'    X w w - - X                                                                                                   '.
+'    X - - - - X                                                                                                   '.
+'    XXXXX - - X                                                                                                   '.
+'        X - - XX                                                                                                  '.
+'        XX- - -XX                                                                                                 '.
+'         XX - - XX    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                            '.
+'          XX- - -XXXXXX - - - - - - - - - - - - - - -XXXX                                                         '.
+'           XX - - - - - - - - - - - - - - - - - - /\\- - - XX                                                      '.
+'            XX- - - - - - - - - - - - - - - - - - - - - - -XXX                                                    '.
+'             XX - - - - - - - -/\\/\\/\\ - - - - - - - - - - - -XX                                                   '.
+'              X - - - - - - - / /  \\ \\- - - -/\\ - - - - - w w XX                                                  '.
+'             XX - w w w - - - - - - - - - - /  \\- - - - w w w wXX                                                 '.
+'            XX- w w w w w - - - - -/\\ - - -/    \\ - - w w w w w X                                                 '.
+'           XX - w w w w w - - - - - - -XXX/      \\XXw w w w w w XX                                                '.
+'           X- - - w /\\w - - - - - - - -X~ ~ ~ ~ ~ ~Xw w w w w w wX                                                '.
+'          XX- - - - - - - /\\- - - - - -XXX~ ~ ~ ~XXXw w w w w w wXX                                               '.
+'          X - - - - - - -/  \\ - - - - - -XXXXXXXXX- - w w w w w - X                                               '.
+'          X - - - - - -X/    \\XX- - - - - - /\\- - - - - /\\- - - - X                                               '.
+'          X - - w w - -X~ ~ ~ ~X- - - - - -/  \\ - - - - - - - - - X                                               '.
+'          X - w w w w -XX ~ ~ XX- - /\\- - /    \\- - - - - - - - - X                                               '.
+'          X w w - w w - XX/\\XXX - -/  \\ -/      \\ - - - - - - - - X                                               '.
+'          XXw w w /\\w w w - - - - /    \\/        \\-/\\ - - /\\- - -XX                                               '.
+'           Xw w w w w w w w - - -/     /          /  \\- - - - - -X                                                '.
+'           XX w w w w w w w - - /     /          /    \\ - - - - XX                                                '.
+'            XX- w w w/\\ w - - - - - - - - - - - - - - - - - - -XX                                                 '.
+'             XX - - /  \\- - - - - - - /\\- - - - - - - - - - - XX                                                  '.
+'              XX- - - - - w w - - - w w w - - @ - - - - - - -XX                                                   '.
+'               XXX- - - w w w w - w w w w w - /\\- - - - - -XXX                                                    '.
+'                 XXX- - w w w - - w w w w w -/  \\ - - - -XXX                                                      '.
+'                   XXXXX- - - - - - w w/\\ w /    \\- -XXXXX                                                        '.
+'                       XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                            '.
